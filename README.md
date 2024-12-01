@@ -1,7 +1,7 @@
 # Добро пожаловать на страницу моего портфолио.
 
-## ФИО: Блок Вера Михайловна
-![alt](https://drive.google.com/file/d/1u6K1c4fqlcZqzDiGGdJxDya9Avowk-FR/view?usp=sharing)
+## Блок Вера Михайловна
+![Image alt](https://github.com/{Vera1744}/{about-me}/raw/{main}/{img/foto.png}/image.png)
 - Возраст: 36 лет
 - Образование: РостГМУ. Лечебное дело. Врач офтальмолог. 
 - Опыт работы: с 2013-2022 по специальности.
